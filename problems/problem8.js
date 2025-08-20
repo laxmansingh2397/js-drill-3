@@ -4,7 +4,6 @@ function problem8(arrayOfObjects) {
     for (let person of arrayOfObjects) {
         console.log(`City: ${person.city}, Country: ${person.country}`);
     }
-    return 
 }
 
 module.exports = problem8
